@@ -1,0 +1,4 @@
+C:\Users\Alejandro Renderos\source\repos\Polyglot Alexa String\obj\Debug\Polyglot Alexa String.csproj.AssemblyReference.cache
+C:\Users\Alejandro Renderos\source\repos\Polyglot Alexa String\obj\Debug\Polyglot_Alexa_String.Properties.Resources.resources
+C:\Users\Alejandro Renderos\source\repos\Polyglot Alexa String\obj\Debug\Polyglot Alexa String.csproj.GenerateResource.cache
+C:\Users\Alejandro Renderos\source\repos\Polyglot Alexa String\obj\Debug\Polyglot Alexa String.csproj.CoreCompileInputs.cache
